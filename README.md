@@ -61,7 +61,12 @@
 <td>pandas, matplotlib, seaborn, math, plotly, numpy, scipy</td>
 <tr>
 <td><b>12</b></td>
-<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%BC%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20(%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD)/Project_10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0.ipynb" target="_blank"><b>Аналитика фитнес-клуба</b></a></td>
+<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%BC%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%D0%BC%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20(%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD)/Project_10.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0.ipynb" target="_blank"><b>Создание дашборда по пользовательским событиям для агрегатора новостей/b></a></td>
+<td>Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.</td>
+<td>pandas, seaborn, matplotlib, sklearn, scipy</td>
+<tr>
+<td><b>13.1</b></td>
+  <td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_11.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2/Project_11.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2.ipynb" target="_blank"><b>Аналитика фитнес-клуба</b></a></td>
 <td>Провести анализ и подготовить план действий по удержанию клиентов. <br>Результат:<br>Пользователи были разделены на кластеры. Определены класстеры клиентов склонных к оттоку. Определены параметры клиентов не склоных к оттоку.</td>
 <td>pandas, seaborn, matplotlib, sklearn, scipy</td>
 <tr>
@@ -71,6 +76,7 @@
 <td>pandas, plotly, numpy, seaborn, matplotlib, scipy</td>
 <tr>
 <td><b>13.2</b></td>
+  
 <td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Анализ%20AB%20теста.ipynb" target="_blank"><b>Выпускной проект часть 2</b></a></td>
 <td>Задачи: оценить корректность проведения теста, проанализировать результаты теста. <br>Результат:<br>Результаты теста признаны не успешными.</td>
 <td>pandas, plotly, matplotlib, math, scipy</td>
