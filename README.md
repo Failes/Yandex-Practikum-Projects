@@ -82,7 +82,7 @@
 <td>pandas, plotly, matplotlib, math, scipy</td>
 <tr>
 <td><b>13.3</b></td>
-<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Проект%20по%20SQL.ipynb" target="_blank"><b>Выпускной проект часть 3</b></a></td>
+<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_12.1%20%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20SQL%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B/Project_12.1%20%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20SQL%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.ipynb" target="_blank"><b>Выпускной проект часть 3</b></a></td>
 <td>Необходимо проанализировать базу данных и сформулировать ценностное предложение для нового продукта. <br>Результат:<br>Данны рекомендации для нового продукта</td>
 <td>pandas, sqlalchemy</td>
 </table>
