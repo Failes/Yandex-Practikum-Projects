@@ -23,7 +23,7 @@
 <td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
 <td> <b>3</b></td>
-<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_05.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/Project_05.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20%E2%80%94%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%83%20%D0%BE%20%D0%BF%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D0%B2%D0%BE%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%B9.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
+<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_05.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/README.md" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
 <td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов <br>Результат:<br>Определены лидеры среди всего модельного ряда самолетов и популярные рейсы.</td>
 <td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
