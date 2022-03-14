@@ -60,7 +60,7 @@
 <td>pandas, seaborn, matplotlib, sklearn, scipy</td>
 <tr>
 <td><b>10</b></td>
-<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_12.%20E-commerce.%20%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/Project_12.%20E-commerce%20%E2%80%94%20%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.ipynb" target="_blank"><b>Выпускной проект часть 1</b></a></td>
+<td><a href="https://github.com/Failes/Yandex-Practikum-Projects/blob/main/Project_12.%20E-commerce.%20%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F/README.md" target="_blank"><b>Выпускной проект часть 1</b></a></td>
 <td>Провести исследовательский анализ данных. Сегментировать покупателей на основе истории их покупок. Сформулировать и проверить статистические гипотезы.</td>
 <td>pandas, plotly, numpy, seaborn, matplotlib, scipy</td>
 <tr>
